@@ -2,4 +2,4 @@
 - db of petrol and disel prices
 - graph
 - map
-- pull online oil prices co-relate
+- pull online [opendata yahoo?] oil prices co-relate
